@@ -17,7 +17,6 @@ Each program is a practical example designed to solve a common problem, making i
     * [Digit Manipulation](#2-digit-manipulation)
     * [Series & Sums](#3-series--sums)
 * [Getting Started](#-getting-started)
-* [Contributing](#-contributing)
 
 ---
 
